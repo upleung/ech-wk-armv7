@@ -96,7 +96,7 @@ docker run -d \
 
 ---
 
-##🔗 鸣谢 / Credits
+## 🔗 鸣谢 / Credits
 * 核心代码来源: [byJoey/ech-wk](https://github.com/byJoey/ech-wk)
 * OpenWrt 插件支持: [SunshineList/luci-app-ech-workers](https://github.com/SunshineList/luci-app-ech-workers)
 
