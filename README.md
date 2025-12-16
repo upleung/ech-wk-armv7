@@ -96,10 +96,10 @@ docker run -d \
 
 ---
 
+## 📦 离线安装方法 / [**Offline Installation**](https://github.com/upleung/ech-wk-armv7/blob/main/Offline%20installation.md)
+
+如果你的玩客云/设备无法连接外网或无法拉取 Docker 镜像，可以使用离线包进行安装。
+
 ## 🔗 鸣谢 / Credits
 * 核心代码来源: [byJoey/ech-wk](https://github.com/byJoey/ech-wk)
 * OpenWrt 插件支持: [SunshineList/luci-app-ech-workers](https://github.com/SunshineList/luci-app-ech-workers)
-
-```
-
-```
