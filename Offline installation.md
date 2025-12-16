@@ -20,11 +20,18 @@ docker load -i /root/ech-wk-armv7.tar
 
 ### 4. 启动容器即使断网状态下，现在也可以直接启动了（注意：`-f` 参数后的域名和端口仍需正确填写）：
 
+
 ```bash
 docker run -d \
   --name ech-wk \
   --restart always \
   --network host \
   mcgtekwrt/ech-wk-armv7:latest \
-  -f "your-domain.workers.dev:443" \
-  -token "your-password"
+  -f "你的workers域名:443" \
+  -token "你的Token" \
+  -ech "cloudflare-ech.com" \
+  -ip "visa.com" \
+  -l "0.0.0.0:30000" \
+  -routing "global"
+
+```
