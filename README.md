@@ -7,7 +7,7 @@
 
 专为 **玩客云 (OneCloud)** 及其他 **ARMv7 (32位)** 架构设备编译的 [ECH-Workers](https://github.com/byJoey/ech-wk) Docker 镜像。
 <br>
-让闲置的电视盒子或老旧开发板变身网络加速节点。
+让闲置的电视盒子或老旧开发板变身网络神器。
 
 ---
 
