@@ -26,7 +26,7 @@
 
 ## ⬇️ 拉取镜像 / Installation
 
-在你的 SSH 终端执行以下命令拉取最新镜像：
+在你的 SSH 终端执行以下命令拉取[最新镜像](https://hub.docker.com/r/mcgtekwrt/ech-wk-armv7)：
 
 ```bash
 docker pull mcgtekwrt/ech-wk-armv7:latest
