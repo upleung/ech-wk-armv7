@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🐳 ECH-Workers for ARMv7 (OneCloud/玩客云)
 
 ![Docker Image Size](https://img.shields.io/docker/image-size/mcgtekwrt/ech-wk-armv7/latest)
@@ -80,5 +77,3 @@ docker run -d \
 
 ##🔗 鸣谢 / Credits* 核心代码来源: [byJoey/ech-wk](https://github.com/byJoey/ech-wk)
 * OpenWrt 插件支持: [SunshineList/luci-app-ech-workers](https://github.com/SunshineList/luci-app-ech-workers)
-
-```
