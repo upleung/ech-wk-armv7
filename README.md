@@ -89,6 +89,24 @@ docker run -d \
 
 ```
 
+<br>
+
+### 🍰 检测ECH运行状态
+
+查看启动状态与配置详情、实时日志查询
+
+```bash
+docker logs ech-wk
+
+```
+
+Ping谷歌外网，出现 HTTP/2 200，说明网络已连接成功！
+
+```bash
+curl -I -x socks5h://127.0.0.1:30000 https://www.google.com
+
+```
+
 ---
 
 <br>
