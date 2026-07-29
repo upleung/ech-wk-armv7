@@ -187,3 +187,18 @@ curl -I -x socks5h://127.0.0.1:30000 https://www.google.com
 * 核心代码来源: [byJoey/ech-wk](https://github.com/byJoey/ech-wk)
 * OpenWrt 插件支持: [SunshineList/luci-app-ech-workers](https://github.com/SunshineList/luci-app-ech-workers)
 * ech-wk项目Docker 64位版本: [cirnosalt/ech-workers-docker](https://hub.docker.com/r/cirnosalt/ech-workers-docker)
+
+<br>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=upleung/ech-wk-armv7&type=Date)](https://www.star-history.com/#upleung/ech-wk-armv7&Date)
+
+<br>
+
+## 🐳 Docker Hub 实时数据
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/mcgtekwrt/ech-wk-armv7?style=for-the-badge&logo=docker&color=2496ED)](https://hub.docker.com/r/mcgtekwrt/ech-wk-armv7)
+[![Docker Image Size](https://img.shields.io/docker/image-size/mcgtekwrt/ech-wk-armv7/latest?style=for-the-badge&logo=docker&color=2496ED)](https://hub.docker.com/r/mcgtekwrt/ech-wk-armv7)
+
+> 本镜像的拉取次数与镜像体积数据由 Docker Hub 实时同步更新。
